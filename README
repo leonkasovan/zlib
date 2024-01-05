@@ -1,5 +1,6 @@
 ZLIB DATA COMPRESSION LIBRARY
 NOVAN EDIT
+NOVAN EDIT LAGI. Apakah bisa otomatis terupdate sebagai submodule?
 
 zlib 1.2.13 is a general purpose data compression library.  All the code is
 thread safe.  The data format used by the zlib library is described by RFCs
